@@ -1,4 +1,4 @@
-# TODO CLI (extspy cli)
+# TODO CLI
 
 _Rust Learning Journey_
 
